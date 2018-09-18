@@ -8,4 +8,16 @@
 Thats a whatsapp simple clone in RN
 Feel free to copy or update this project...
 
-### Frederico Bezerra
+- [x] Login Page
+- [x] Signup Page
+- [x] Navigation
+- [x] Redux implementation
+- [ ] FireBase Services
+- [ ] Chat Page
+- [ ] Contact Page
+- [ ] Splash Screen
+- [ ] Push notification
+- [ ] Style...
+
+
+  ### Frederico Bezerra
