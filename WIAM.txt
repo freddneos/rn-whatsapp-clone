@@ -1,0 +1,2 @@
+https://www.udemy.com/desenvolvedor-multiplataforma-androidios-com-react-e-redux/learn/v4/t/lecture/6866522?start=0
+Alterando estados dos componentes via actions creator parte 2
